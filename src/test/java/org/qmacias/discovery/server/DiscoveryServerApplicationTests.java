@@ -1,4 +1,4 @@
-package org.qmacias.eureka.demo;
+package org.qmacias.discovery.server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
